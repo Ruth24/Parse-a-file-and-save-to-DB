@@ -1,0 +1,23 @@
+{
+  "name": "zuri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^3.0.2",
+    "csvjson": "^5.0.0",
+    "csvtojson": "^1.1.9",
+    "express": "^4.16.3",
+    "line-by-line": "^0.1.6",
+    "mongoose": "^5.0.15",
+    "mysql": "^2.15.0",
+    "node-csv-json": "^0.2.1",
+    "nodejs-model": "^0.1.6",
+    "txt-to-sql": "^0.1.2"
+  }
+}
